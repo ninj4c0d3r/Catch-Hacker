@@ -11,22 +11,22 @@ The tool contains a Grabber:
 - HTTP Referer
 - And trolls.
 
-- How to use:
+# How to use:
 
 Download the file and place in the root directory of your site shortly after rename and put a name of a fake administrative panel.
 
-- Examples:
+# Examples:
 
-administrative.php
-login.php
-login-page.php
-secret.php
-admin.php
+- administrative.php
+- login.php
+- login-page.php
+- secret.php
+- admin.php
 
-- Honeypot Page:
+# Honeypot Page:
 
 ![alt tag](http://i.imgur.com/SsV0TzY.png)
 
-- Log:
+# Log:
  
 ![alt tag](http://i.imgur.com/D7JnKvx.png)
